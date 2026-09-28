@@ -36,13 +36,13 @@ The project focuses on validating major e-commerce functionalities including Reg
 
 ## Tools & Technologies
 
+Manual Testing:
+Excel
+
+Eclipse:
 * Java
 * Selenium WebDriver
 * TestNG
-* Maven
-* Page Object Model (POM)
-* Git
-* GitHub
 
 ## Automation Framework
 
@@ -50,13 +50,15 @@ The automation framework is developed using Selenium WebDriver, Java, TestNG, Ma
 
 The Page Object Model approach is used to separate page elements and actions from test cases, improving code reusability and maintainability.
 
+Cross-Browser Testing – Automated test execution across Chrome, Microsoft Edge, and Firefox browsers along with the POM framework.
+
 ## Testing Documents
 
-* Test Plan
-* Test Cases
-* Test Execution Report
-* Bug Report
+* Feature List
+* Test Plan Document
+* Test Execution report and Bug Report
 * Test Summary Report
+* Test Sign Off Document
 
 ## Automation Source Code
 
@@ -72,13 +74,3 @@ The generated TestNG execution reports are available in the `test-output` folder
 ## End-to-End Workflow
 
 Registration → Login → Product Search → Product Details → Shopping Cart → Checkout → Order Placement
-
-## Project Deliverables
-
-* Test Plan
-* Test Cases
-* Test Execution Report
-* Bug Report
-* Test Summary Report
-* Selenium Automation Scripts
-* TestNG Execution Reports
