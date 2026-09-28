@@ -57,11 +57,11 @@ Cross-Browser Testing – Automated test execution across Chrome, Microsoft Edge
 
 ## Testing Documents
 
-* Feature List
-* Test Plan Document
-* Test Execution report and Bug Report
-* Test Summary Report
-* Test Sign Off Document
+* Feature List - 
+* Test Plan Document - 
+* Test Execution report and Bug Report - 
+* Test Summary Report - 
+* Test Sign Off Document - 
 
 ## Automation Source Code
 
