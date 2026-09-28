@@ -57,11 +57,11 @@ Cross-Browser Testing – Automated test execution across Chrome, Microsoft Edge
 
 ## Testing Documents
 
-* Feature List - (Word Document) https://docs.google.com/document/d/1T-F4uSVpmr-v0RIKXPBKIXR2NOiWowPX/edit?usp=drivesdk&ouid=112807489423485821352&rtpof=true&sd=true
-* Test Plan Document - (Word Document) https://docs.google.com/document/d/1ImxaTrVOg2E1LCPZ6Rz18fEKNCASF7y2/edit?usp=drivesdk&ouid=112807489423485821352&rtpof=true&sd=true
-* Test Execution report and Bug Report - (Excel File) https://docs.google.com/spreadsheets/d/14Bzvj0xTIH8HMsxpKNi4xFO2dPB6yiJ/editusp=drivesdk&ouid=112807489423485821352&rtpof=true&sd=true
-* Test Summary Report - (Word Document) https://docs.google.com/document/d/1_FXUqJ4I9_OMu6duoks26h_VjSoQWkDq/edit?usp=drivesdk&ouid=112807489423485821352&rtpof=true&sd=true 
-* Test Sign Off Document - (Word Document) https://docs.google.com/document/d/1egiICTI-neP0p2kIwO9BFzL3XP2zwtMQ/edit?usp=drivesdk&ouid=112807489423485821352&rtpof=true&sd=true
+* Feature List
+* Test Plan Document
+* Test Execution report and Bug Report
+* Test Summary Report
+* Test Sign Off Document
 
 ## Automation Source Code
 
