@@ -37,6 +37,7 @@ The project focuses on validating major e-commerce functionalities including Reg
 ## Tools & Technologies
 
 Manual Testing
+
 * Excel
 
 Automation Testing
