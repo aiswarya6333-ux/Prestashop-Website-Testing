@@ -36,9 +36,10 @@ The project focuses on validating major e-commerce functionalities including Reg
 
 ## Tools & Technologies
 
-Manual Testing:
-Excel
+Manual Testing
+* Excel
 
+Automation Testing
 Eclipse:
 * Java
 * Selenium WebDriver
