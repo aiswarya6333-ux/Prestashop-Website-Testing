@@ -41,7 +41,6 @@ The project focuses on validating major e-commerce functionalities including Reg
 * TestNG
 * Maven
 * Page Object Model (POM)
-* Eclipse
 * Git
 * GitHub
 
