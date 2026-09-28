@@ -41,10 +41,11 @@ Manual Testing
 * Excel
 
 Automation Testing
-Eclipse:
-* Java
-* Selenium WebDriver
-* TestNG
+
+* Eclipse:
+  * Java
+  * Selenium WebDriver
+  * TestNG
 
 ## Automation Framework
 
