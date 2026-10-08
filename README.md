@@ -62,18 +62,3 @@ Cross-Browser Testing – Automated test execution across Chrome, Microsoft Edge
 * Test Execution report and Bug Report
 * Test Summary Report
 * Test Sign Off Document
-
-## Automation Source Code
-
-The Selenium automation source code is available in the `Automation Testing` folder.
-
-## TestNG Reports
-
-The generated TestNG execution reports are available in the `test-output` folder.
-
-* `index.html` – Detailed TestNG execution report
-* `emailable-report.html` – TestNG execution summary
-
-## End-to-End Workflow
-
-Registration → Login → Product Search → Product Details → Shopping Cart → Checkout → Order Placement
